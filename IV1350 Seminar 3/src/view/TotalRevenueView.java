@@ -23,7 +23,7 @@ public class TotalRevenueView implements SaleObserver {
 	    }
 	 
 	  /**
-	     * Prints the total amount of 'revenue' since the program started.
+	     * Prints the total  revenue since the program started.
 	     */
 	    private void printCurrentState() {
 	       
